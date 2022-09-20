@@ -5,6 +5,7 @@
 - HashiCorp Discuss: [https://discuss.hashicorp.com/c/vagrant/24](https://discuss.hashicorp.com/c/vagrant/24)
 
 Vagrant is a tool for building and distributing development environments.
+patch 1
 
 Development environments managed by Vagrant can run on local virtualized
 platforms such as VirtualBox or VMware, in the cloud via AWS or OpenStack,
